@@ -1,0 +1,12 @@
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachBoomerangGoalPoseLast_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachBoomerangGoalPoseShort_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachBoomerangGoalPoseSuper_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachBoomerangGoalPose_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachClimbGoalPoseLast_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachClimbGoalPoseShort_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachClimbGoalPoseSuper_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachClimbGoalPose_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachGoalPoseLast_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachGoalPoseShort_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachGoalPoseSuper_fts.fmab
+C:/Development/RedCarpet-S/Trunk/Assets/ObjectData/Player/PeachEye/PeachGoalPose_fts.fmab
